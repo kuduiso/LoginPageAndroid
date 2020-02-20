@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FunSubmission</string>
+    <string name="lupa_kata_sandi">LUPA KATA SANDI</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="masuk">MASUK</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="unida_engineer_bootcamp_android">Unida Engineer Bootcamp Android</string>
+</resources>
